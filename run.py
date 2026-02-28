@@ -1,3 +1,16 @@
 import os,sys
 os.system("clear")
-print("\n\nSCRIPT SEDANG ERROR TOLONG HARAP BERSABAR")
+print("""\n\n\n
+MOHON MAAF ATAS KETIDAK NYAMANAN NYA 
+SCRIPT SEDANG ERROR TOLONG HARAP BERSABAR YA ^_^
+______
+Yang Sudah Premium Dan masih Aktif
+Bisa di Kirim username nya Ke Admin
+no wa : 0895404759092
+tele. : t.me/vindraganzz
+______
+Script Akan Normal di Sore Hari Bila
+Tidak Mengalami Error Kembali.
+Terimakasih Sudah Bersabar 🙏
+""")
+
