@@ -9,8 +9,9 @@ Bisa di Kirim username nya Ke Admin
 no wa : 0895404759092
 tele. : t.me/vindraganzz
 ______
-Script Akan Normal di Sore Hari Bila
-Tidak Mengalami Error Kembali.
+Script Akan Di Perbaiki Secepatnya
+Gara Tidak Mengalami Error,
 Terimakasih Sudah Bersabar 🙏
 """)
+
 
